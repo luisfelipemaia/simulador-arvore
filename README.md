@@ -1,6 +1,6 @@
 # Simulador de Árvores
 
-Projeto Java 17 com JSGE 1.9.1, continuando a base disponibilizada pelo professor.
+Projeto Java 17 ou superior com JSGE 1.9.1, continuando a base disponibilizada pelo professor.
 Abre um menu para escolher os números, o tipo de árvore e a ordem da saída.
 Você pode abrir ABB, AVL, Vermelha e Preta (AVP, variante LLRB) ou comparar as três.
 Todos os controles da interface usam a GUI da JSGE. O desenho também é feito pela engine.
