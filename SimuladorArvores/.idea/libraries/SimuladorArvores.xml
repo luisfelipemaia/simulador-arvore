@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimuladorArvores">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/entrega/SimuladorArvores.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

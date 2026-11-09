@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jaudiotagger-2.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jflac-codec-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-io-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/tritonus-all-0.3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/JSGE-v1.9.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jlayer-1.0.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mp3spi-1.9.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/sdl2gdx-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/java-stream-player-10.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jorbis-0.0.17.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/java-vorbis-support-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
